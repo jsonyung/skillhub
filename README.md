@@ -3,7 +3,23 @@
 
 SkillHub is a powerful and engaging platform designed to connect learners with a wide variety of courses in creative, technical, and personal development fields. With a blend of dynamic content, live workshops, and a thriving community, SkillHub fosters personal and professional growth for users from all walks of life.
 
----
+## Table of Contents
+
+- [Features](#-features)
+- [Project Architecture](#-project-architecture)
+- [Firebase Authentication Integration](#-firebase-authentication-integration)
+- [API Integration](#-api-integration)
+- [Product Filtering](#-product-filtering)
+- [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
+- [Getting Started](#-getting-started)
+- [Development Tools](#-development-tools)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support & Feedback](#-support--feedback)
+- [Acknowledgements](#-acknowledgements)
+
 
 ## 🚀 Features
 
@@ -17,7 +33,7 @@ SkillHub is a powerful and engaging platform designed to connect learners with a
 - **Live Workshops**: Participate in interactive sessions with industry experts.
 - **Community Support**: Engage with a community of learners, share progress, and collaborate.
 
----
+
 
 ## 📐 Project Architecture
 
@@ -29,7 +45,7 @@ SkillHub is built using the **MVVM (Model-View-ViewModel) architecture** pattern
 
 We use **Provider** for state management, which helps the app efficiently manage and update UI based on the ViewModel's state.
 
----
+
 
 ## 🔥 Firebase Authentication Integration
 
@@ -41,7 +57,7 @@ SkillHub integrates **Firebase Authentication** for secure and seamless user log
 
 Firebase authentication ensures proper error handling, including login failures, password validation, and account verification.
 
----
+
 
 ## 🌐 API Integration
 
@@ -51,7 +67,7 @@ SkillHub consumes the **Dummy JSON API** to fetch product data for listing and f
 - **Lazy Loading**: To improve performance, products are loaded as users scroll through the product list.
 - **Error Handling**: Ensures proper feedback is given to users in case of failed API calls.
 
----
+
 
 ## 🛠️ Product Filtering
 
@@ -61,7 +77,7 @@ The app includes a robust product filtering feature:
 - **Dynamic Product Update**: The product list updates in real-time as the user selects or deselects filters.
 - **Pagination and Lazy Loading**: Smooth, dynamic loading of products for a seamless user experience.
 
----
+
 ## 📂 Project Structure
 
 The project follows a well-organized structure to maintain separation of concerns and modularity, as shown below:
@@ -108,7 +124,7 @@ lib/
 ├── screenshots/          
 └── test/
 ```
----
+
 ## Screenshots
 
 <img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/02.gif" alt="Animated GIF" width="200"/>
@@ -119,7 +135,7 @@ lib/
 <img src="/screenshots/5.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/6.jpg" alt="Home Screen" width="200"/>
 <img src="/screenshots/7.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/8.jpg" alt="Home Screen" width="200"/>
 
----
+
 ## 📲 Getting Started
 
 To get started with **SkillHub**, follow these steps:
@@ -146,7 +162,7 @@ Make sure you have Flutter installed on your machine. If you haven't installed F
    flutter run
    ```
 
----
+
 
 ### First Time with Flutter?
 
@@ -157,7 +173,7 @@ Here are some resources to help you get started with Flutter:
 
 For a deeper dive, check out the full [Flutter Documentation](https://docs.flutter.dev/), offering comprehensive guides, tutorials, and API references.
 
----
+
 
 ## 🛠️ Development Tools
 
@@ -167,7 +183,7 @@ To contribute or customize **SkillHub**, you can use the following tools:
 - **Framework**: [Flutter](https://flutter.dev/)
 - **Languages**: Dart
 
----
+
 
 ## 🎯 Roadmap
 
@@ -176,7 +192,7 @@ To contribute or customize **SkillHub**, you can use the following tools:
 - [ ] Add offline course access
 - [ ] Integrate payment gateways for course purchases
 
----
+
 
 ## 💡 Contributing
 
@@ -206,25 +222,25 @@ We welcome contributions! Please follow these steps:
 
 For any questions, feel free to open an issue.
 
----
+
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## 🌟 Support & Feedback
 
 If you have any suggestions or issues, please feel free to create an issue or reach out to us at [your-email@example.com]. Your feedback is always appreciated!
 
----
+
 
 ## 🙌 Acknowledgements
 
 Thanks to the Flutter team and the amazing open-source community that helps make projects like **SkillHub** possible!
 
----
+
 
 Made with ❤️ using [Flutter](https://flutter.dev/)
 
