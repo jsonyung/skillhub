@@ -9,16 +9,17 @@ SkillHub is a powerful and engaging platform designed to connect learners with a
 - [Project Architecture](#-project-architecture)
 - [Firebase Authentication Integration](#-firebase-authentication-integration)
 - [API Integration](#-api-integration)
-- [Product Filtering](#-product-filtering)
+- [Product Filtering](#product-filtering)
 - [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
+- [Screenshots](#screenshots)
 - [Getting Started](#-getting-started)
-- [Development Tools](#-development-tools)
+- [Development Tools](#development-tools)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Support & Feedback](#-support--feedback)
 - [Acknowledgements](#-acknowledgements)
+
 
 
 ## 🚀 Features
