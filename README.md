@@ -1,4 +1,4 @@
-```md
+```
 # 🎓 SkillHub - Your Personal Course Marketplace
 
 SkillHub is a powerful and engaging platform designed to connect learners with a wide variety of courses in creative, technical, and personal development fields. With a blend of dynamic content, live workshops, and a thriving community, SkillHub fosters personal and professional growth for users from all walks of life.
