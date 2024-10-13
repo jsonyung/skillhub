@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SkillHub</string>
+    <string name="facebook_app_id">555010730234815</string>
+    <string name="fb_login_protocol_scheme">fb555010730234815</string>
+    <string name="facebook_client_token">1612596c47cc93b126acb460d677fee1</string>
+</resources>

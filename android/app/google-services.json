@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "914853760538",
+    "project_id": "skillhub-345fb",
+    "storage_bucket": "skillhub-345fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914853760538:android:47678d296c5ed65b954ba3",
+        "android_client_info": {
+          "package_name": "com.app.skillhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914853760538-afaage0k13o2cs91ia1694alh1obfeur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.skillhub",
+            "certificate_hash": "da7e7361972b3539eff944b60af587deb28c835b"
+          }
+        },
+        {
+          "client_id": "914853760538-2bt10fhmhp9tp3ctemtumtp78ft55olb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSJWchbBol8VB-UUGnOnBgv2r6NSVTzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914853760538-2bt10fhmhp9tp3ctemtumtp78ft55olb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "914853760538-5vu8v2bvtp7eagr38u2ihoe0df2l3kur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.skillhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
