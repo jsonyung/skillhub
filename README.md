@@ -1,4 +1,4 @@
-```
+
 # 🎓 SkillHub - Your Personal Course Marketplace
 
 SkillHub is a powerful and engaging platform designed to connect learners with a wide variety of courses in creative, technical, and personal development fields. With a blend of dynamic content, live workshops, and a thriving community, SkillHub fosters personal and professional growth for users from all walks of life.
@@ -65,7 +65,7 @@ The app includes a robust product filtering feature:
 ## 📂 Project Structure
 
 The project follows a well-organized structure to maintain separation of concerns and modularity, as shown below:
-
+```bash
 lib/
 ├── main.dart
 ├── firebase_options.dart
@@ -107,6 +107,7 @@ lib/
 ├── macos/                
 ├── screenshots/          
 └── test/
+```
 ---
 ## Screenshots
 
@@ -226,4 +227,4 @@ Thanks to the Flutter team and the amazing open-source community that helps make
 ---
 
 Made with ❤️ using [Flutter](https://flutter.dev/)
-```
+
