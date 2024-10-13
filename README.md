@@ -5,20 +5,21 @@ SkillHub is a powerful and engaging platform designed to connect learners with a
 
 ## Table of Contents
 
-- [Features](#-features)
-- [Project Architecture](#-project-architecture)
-- [Firebase Authentication Integration](#-firebase-authentication-integration)
-- [API Integration](#-api-integration)
-- [Product Filtering](#product-filtering)
-- [Project Structure](#-project-structure)
-- [Screenshots](#screenshots)
-- [Getting Started](#-getting-started)
-- [Development Tools](#development-tools)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Support & Feedback](#-support--feedback)
-- [Acknowledgements](#-acknowledgements)
+- [🚀 Features](#features)
+- [📐 Project Architecture](#project-architecture)
+- [🔥 Firebase Authentication Integration](#firebase-authentication-integration)
+- [🌐 API Integration](#api-integration)
+- [🛠️ Product Filtering](#product-filtering)
+- [📂 Project Structure](#project-structure)
+- [🖼️ Screenshots](#screenshots)
+- [📲 Getting Started](#getting-started)
+- [🛠️ Development Tools](#development-tools)
+- [🎯 Roadmap](#roadmap)
+- [💡 Contributing](#contributing)
+- [📄 License](#license)
+- [🌟 Support & Feedback](#support--feedback)
+- [🙌 Acknowledgements](#acknowledgements)
+
 
 
 
@@ -126,7 +127,7 @@ lib/
 └── test/
 ```
 
-## Screenshots
+## 🖼️ Screenshots
 
 <img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/02.gif" alt="Animated GIF" width="200"/>
 <img src="/screenshots/03.gif" alt="Animated GIF" width="200"/><img src="/screenshots/04.gif" alt="Animated GIF" width="200"/>
