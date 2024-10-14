@@ -22,7 +22,6 @@ SkillHub is a powerful and engaging platform designed to connect learners with a
 
 
 
-
 ## 🚀 Features
 
 - **Firebase Authentication**: Users can log in using email/password, Google, or Facebook via Firebase Auth.
