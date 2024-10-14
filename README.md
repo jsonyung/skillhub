@@ -9,11 +9,11 @@ SkillHub is a powerful and engaging platform designed to connect learners with a
 - [📐 Project Architecture](#-project-architecture)
 - [🔥 Firebase Authentication Integration](#-firebase-authentication-integration)
 - [🌐 API Integration](#-api-integration)
-- [🛠️ Product Filtering](#-product-filtering)
+- [🛠️ Product Filtering](#%EF%B8%8F-product-filtering)
 - [📂 Project Structure](#-project-structure)
-- [🖼️ Screenshots](#-screenshots)
+- [🖼️ Screenshots](#screenshots)
 - [📲 Getting Started](#-getting-started)
-- [🛠️ Development Tools](#-development-tools)
+- [🛠️ Development Tools](#development-tools)
 - [🎯 Roadmap](#-roadmap)
 - [💡 Contributing](#-contributing)
 - [📄 License](#-license)
@@ -127,8 +127,8 @@ lib/
 └── test/
 ```
 
-## 🖼️ Screenshots
-
+## Screenshots
+- [🖼️ Screenshots](#screenshots)
 <img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/02.gif" alt="Animated GIF" width="200"/>
 <img src="/screenshots/03.gif" alt="Animated GIF" width="200"/><img src="/screenshots/04.gif" alt="Animated GIF" width="200"/>
 <img src="/screenshots/05.gif" alt="Animated GIF" width="200"/><img src="/screenshots/1.jpg" alt="Home Screen" width="200"/>
@@ -177,7 +177,8 @@ For a deeper dive, check out the full [Flutter Documentation](https://docs.flutt
 
 
 
-## 🛠️ Development Tools
+## Development Tools
+- [🛠️ Development Tools](#development-tools)
 
 To contribute or customize **SkillHub**, you can use the following tools:
 
