@@ -129,6 +129,7 @@ lib/
 
 ## Screenshots
 - [🖼️ Screenshots](#screenshots)
+
 <img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/02.gif" alt="Animated GIF" width="200"/>
 <img src="/screenshots/03.gif" alt="Animated GIF" width="200"/><img src="/screenshots/04.gif" alt="Animated GIF" width="200"/>
 <img src="/screenshots/05.gif" alt="Animated GIF" width="200"/><img src="/screenshots/1.jpg" alt="Home Screen" width="200"/>
