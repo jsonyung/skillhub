@@ -130,13 +130,13 @@ lib/
 ## Screenshots
 - [🖼️ Screenshots](#screenshots)
 
-<img src="/screenshots/01.gif" alt="Animated GIF" width="160"/> <img src="/screenshots/02.gif" alt="Animated GIF" width="160"/>
-<img src="/screenshots/03.gif" alt="Animated GIF" width="160"/> <img src="/screenshots/04.gif" alt="Animated GIF" width="160"/>
-<img src="/screenshots/05.gif" alt="Animated GIF" width="160"/> <img src="/screenshots/1.jpg" alt="Home Screen" width="160"/>
-<img src="/screenshots/2.jpg" alt="Home Screen" width="160"/> <img src="/screenshots/2n.jpg" alt="Home Screen" width="160"/> 
-<img src="/screenshots/3.jpg" alt="Home Screen" width="160"/> <img src="/screenshots/4.jpg" alt="Home Screen" width="160"/>
-<img src="/screenshots/5.jpg" alt="Home Screen" width="160"/> <img src="/screenshots/6.jpg" alt="Home Screen" width="160"/>
-<img src="/screenshots/7.jpg" alt="Home Screen" width="160"/> <img src="/screenshots/8.jpg" alt="Home Screen" width="160"/>
+<img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/02.gif" alt="Animated GIF" width="200"/>
+<img src="/screenshots/03.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/04.gif" alt="Animated GIF" width="200"/>
+<img src="/screenshots/05.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/1.jpg" alt="Home Screen" width="200"/>
+<img src="/screenshots/2.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/2n.jpg" alt="Home Screen" width="200"/> 
+<img src="/screenshots/3.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/4.jpg" alt="Home Screen" width="200"/>
+<img src="/screenshots/5.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/6.jpg" alt="Home Screen" width="200"/>
+<img src="/screenshots/7.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/8.jpg" alt="Home Screen" width="200"/>
 
 
 
