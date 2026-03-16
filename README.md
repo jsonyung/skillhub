@@ -158,7 +158,7 @@ Make sure you have Flutter installed on your machine. If you haven't installed F
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/skillhub.git
+   git clone https://github.com/jsonyung/skillhub.git
    cd skillhub
    ```
 
