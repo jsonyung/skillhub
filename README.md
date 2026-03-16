@@ -1,3 +1,9 @@
+# 🚀 2026 AI Roadmap Update
+**Currently integrating OpenAI GPT-5 and Codex to transform SkillHub into an AI-first learning platform.**
+- 🧠 **AI Tutoring:** Automated student assessments and real-time feedback.
+- 🔍 **Smart Search:** Natural language course discovery using OpenAI embeddings.
+- 🤖 **Study Assistant:** In-app AI bot to help users with course content.
+---
 
 # 🎓 SkillHub - Your Personal Course Marketplace
 
@@ -205,7 +211,7 @@ We welcome contributions! Please follow these steps:
 
 1. Fork the repository
    ```bash
-   git clone https://github.com/your-username/skillhub.git
+   git clone https://github.com/jsonyung/skillhub.git
    ```
 
 2. Create your feature branch:
@@ -237,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Support & Feedback
 
-If you have any suggestions or issues, please feel free to create an issue or reach out to us at [your-email@example.com]. Your feedback is always appreciated!
+If you have any suggestions or issues, please feel free to create an issue or reach out to us at [fdev87106@gmail.com]. Your feedback is always appreciated!
 
 
 
